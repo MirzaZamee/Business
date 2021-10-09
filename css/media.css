@@ -1,0 +1,414 @@
+@media(max-width: 1199px){
+    .navbar-brand img{
+        width: 88%;
+    }
+    .navbar-light .navbar-nav .nav-link {
+        font-size: 16px;
+    }
+    .info h4{
+        font-size: 18px;
+    }
+    .about-cont {
+        margin: 53px 5px 0;
+    }
+    .numbering{
+        width: 12%;
+    }
+}
+@media(max-width: 991px){
+    .navbar-brand img{
+        width: 88%;
+    }
+    .navbar-light .navbar-nav .nav-link {
+        font-size: 16px;
+    }
+    .info h4{
+        font-size: 18px;
+    }
+    .about-cont {
+        margin: 53px 0px 0;
+    }
+    .numbering{
+        width: 14%;
+        left: 26%;
+    }
+    .numbering-2{
+        left: 60%;
+    }
+    .appro-img img {
+        margin-left: -125px;
+    }
+    .btn-banner {
+        font-size: 22px;
+    }
+    .banner-cont h1 {
+        font-size: 48px;
+    }
+    .banner-cont h1 span {
+        font-size: 32px;
+    }
+    .navbar-nav{
+        flex-direction: row;
+        justify-content: center;
+        margin-top: 24px;
+    } 
+    .approach:hover .heading-2 span {
+        width: 6.5%;
+    }
+    .about:hover .headings span {
+        width: 6.5%;
+    }
+    .work:hover .heading-3 span {
+        width: 6.5%;
+    }
+    .appro-txt-2 {
+        padding: 0 98px 0 39px;
+    }
+}
+@media(max-width: 767px) and (min-width: 576px){
+    .navbar-brand img{
+        width: 80%;
+    }
+    .navbar-light .navbar-nav .nav-link {
+        font-size: 18px;
+        margin-bottom: 8px;
+        display: inline-block;
+    }
+    .info h4{
+        font-size: 18px;
+    }
+    .about-cont {
+        margin: 53px 0px 0;
+    }
+    .numbering{
+        width: 25%;
+        left: 68%;
+        top: 27%;
+        height: 22%;
+    }
+    .numbering-2{
+        left: 4%;
+    }
+    .appro-img img {
+        margin-left: 0;
+        transform: scale(1.2);
+        margin-bottom: 68px;
+    }
+    .btn-banner {
+        font-size: 21px;
+    }
+    .banner-cont h1 {
+        font-size: 48px;
+    }
+    .banner-cont h1 span {
+        font-size: 32px;
+        line-height: 19px;
+    }
+    .navbar-nav{
+        flex-direction: column;
+        justify-content: center;
+        margin-top: 54px;
+    } 
+    .displaynoneresponsive{
+        display: none;
+    }
+    .approach:hover .heading-2 span {
+        width: 10.5%;
+    }
+    .about:hover .headings span {
+        width: 10.5%;
+    }
+    .work:hover .heading-3 span {
+        width: 10.5%;
+    }
+    .displaynone{
+        display: inherit;
+    }
+    .appro-txt, .appro-txt-2{
+        padding: 0 14px 34px;
+        text-align: start;
+    }
+    .triangle{
+        top: 33%;
+    }
+    .project-info {
+        width: 100%;
+    }
+    .project{
+        /* padding: 151px 0; */
+    }
+    .work {
+        padding: 100px 0 142px;
+    }
+    .form-area {
+        padding: 43px 34px;
+    }
+    .navbar-nav .nav-item {
+        list-style: none;
+    }
+    .btn-submit {
+        width: 46%;
+        font-size: 15px;
+    }
+    .btn-email {
+        width: 37%;
+        padding: 13px 0;
+        font-size: 16px;
+    }
+    .social-icons ul li {
+        margin: 0 9px;
+    }   
+    .headings h1 {
+        margin-bottom: 0px;
+        font-size: 34px;
+    } 
+    .headings p {
+        font-size: 19px;
+    }
+    .about-cont h3 {
+        font-size: 21px;
+    }
+    .project-info h3 {
+        font-size: 25px;
+    }
+    .displaynonetab{
+        display: none;
+    }
+    .displayshowtab{
+    }
+    .clock{
+        transform: scale(1.1);
+    }
+    .appro-img {
+        margin-left: auto;
+    }
+    .displayshowtab{
+        display: inherit;
+    }
+}
+@media(max-width: 575px){
+    .navbar-brand img{
+        width: 80%;
+    }
+    .navbar-light .navbar-nav .nav-link {
+        font-size: 18px;
+        margin-bottom: 8px;
+        display: inline-block;
+    }
+    .info h4{
+        font-size: 18px;
+    }
+    .about-cont {
+        margin: 53px 42px 0;
+    }
+    .numbering{
+        width: 25%;
+        left: 5%;
+        top: 18%;
+        height: 22%;
+    }
+    .numbering-2{
+        left: 69%;
+    }
+    .appro-img img {
+        margin-left: 0;
+        transform: scale(1.2);
+        margin-bottom: 68px;
+    }
+    .btn-banner {
+        font-size: 21px;
+    }
+    .banner-cont h1 {
+        font-size: 48px;
+    }
+    .banner-cont h1 span {
+        font-size: 32px;
+        line-height: 19px;
+    }
+    .navbar-nav{
+        flex-direction: column;
+        justify-content: center;
+        margin-top: 54px;
+    } 
+    .displaynoneresponsive{
+        display: none;
+    }
+    .approach:hover .heading-2 span {
+        width: 10.5%;
+    }
+    .about:hover .headings span {
+        width: 10.5%;
+    }
+    .work:hover .heading-3 span {
+        width: 10.5%;
+    }
+    .displaynone{
+        display: inherit;
+    }
+    .appro-txt, .appro-txt-2{
+        padding: 0 14px 34px;
+        text-align: start;
+    }
+    .triangle{
+        top: 35%;
+    }
+    .project-info {
+        width: 100%;
+    }
+    .project{
+        padding: 151px 0;
+    }
+    .work {
+        padding: 100px 0 0px;
+    }
+    .form-area {
+        padding: 43px 34px;
+    }
+    .navbar-nav .nav-item {
+        list-style: none;
+    }
+    .btn-submit {
+        width: 46%;
+        font-size: 15px;
+    }
+    .btn-email {
+        width: 37%;
+        padding: 13px 0;
+        font-size: 16px;
+    }
+    .social-icons ul li {
+        margin: 0 9px;
+    }   
+    .headings h1 {
+        margin-bottom: 0px;
+        font-size: 34px;
+    } 
+    .headings p {
+        font-size: 19px;
+    }
+    .about-cont h3 {
+        font-size: 23px;
+    }
+    .project-info h3 {
+        font-size: 25px;
+    }
+}
+@media(max-width: 375px){
+    .navbar-brand img {
+        width: 76%;
+    }
+    .btn-banner {
+        font-size: 20px;
+    }
+}
+@media(max-width: 340px){
+    .navbar-brand{
+        
+width: 71%;
+    }
+    .navbar-brand img{
+        width: 80%;
+    }
+    .navbar-light .navbar-nav .nav-link {
+        font-size: 18px;
+        margin-bottom: 8px;
+        display: inline-block;
+    }
+    .info h4{
+        font-size: 18px;
+    }
+    .about-cont {
+        margin: 53px 14px 0;
+    }
+    .numbering{
+        width: 31%;
+        left: 5%;
+        top: 18%;
+        height: 19%;
+    }
+    .numbering-2{
+        left: 65%;
+    }
+    .appro-img img {
+        margin-left: 0;
+        transform: scale(1.2);
+        margin-bottom: 68px;
+    }
+    .btn-banner {
+        font-size: 18px;
+    }
+    .banner-cont h1 {
+        font-size: 42px;
+    }
+    .banner-cont h1 span {
+        font-size: 28px;
+        line-height: 16px;
+    }
+    .navbar-nav{
+        flex-direction: column;
+        justify-content: center;
+        margin-top: 54px;
+    } 
+    .displaynoneresponsive{
+        display: none;
+    }
+    .approach:hover .heading-2 span {
+        width: 10.5%;
+    }
+    .about:hover .headings span {
+        width: 10.5%;
+    }
+    .work:hover .heading-3 span {
+        width: 10.5%;
+    }
+    .displaynone{
+        display: inherit;
+    }
+    .appro-txt, .appro-txt-2{
+        padding: 0 14px 34px;
+        text-align: start;
+    }
+    .triangle{
+        top: 35%;
+    }
+    .project-info {
+        width: 100%;
+    }
+    .project{
+        padding: 151px 0;
+    }
+    .work {
+        padding: 100px 0 0px;
+    }
+    .form-area {
+        padding: 43px 17px;
+    }
+    .navbar-nav .nav-item {
+        list-style: none;
+    }
+    .btn-submit {
+        width: 52%;
+        font-size: 15px;
+    }
+    .btn-email {
+        width: 37%;
+        padding: 13px 0;
+        font-size: 16px;
+    }
+    .social-icons ul li {
+        margin: 0 9px;
+    }   
+    .headings h1 {
+        margin-bottom: 0px;
+        font-size: 31px;
+    } 
+    .headings p {
+        font-size: 17px;
+    }
+    .about-cont h3 {
+        font-size: 20px;
+    }
+    .project-info h3 {
+        font-size: 25px;
+    }
+}
